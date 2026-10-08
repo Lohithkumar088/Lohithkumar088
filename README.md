@@ -61,30 +61,8 @@ My current focus is on strengthening **Java, Spring Boot, REST APIs, SQL, AWS, D
 - 🧠 **Problem Solving:** 100+ LeetCode problems solved using Java
 - 📫 **Reach me:** lohithkumarvinoth@gmail.com
 
----
 
-## 🎯 Current Focus
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-MySQL / JDBC
-  ↓
-Docker
-  ↓
-CI/CD
-  ↓
-AWS
-  ↓
-Cloud Infrastructure
-  ↓
-Kubernetes / Terraform
-  ↓
-Microservices & System Design
 
 
 <p>
@@ -171,3 +149,31 @@ Microservices & System Design
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
 </p>
+
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+MySQL / JDBC
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+AWS
+  ↓
+Cloud Infrastructure
+  ↓
+Kubernetes / Terraform
+  ↓
+Microservices & System Design
+
+
